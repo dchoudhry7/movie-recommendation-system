@@ -28,19 +28,6 @@ This project builds a content-based recommendation engine that helps users disco
 
 ---
 
-## 📂 Project Structure
-
-movie-recommendation-system/
-│
-├── data/                # Dataset files
-├── model/              # Saved model files
-├── main.py             # Core recommendation logic
-├── app.py              # Application file (if UI used)
-├── requirements.txt    # Dependencies
-└── README.md
-
----
-
 ## ⚙️ How It Works
 
 1. Data is cleaned and relevant features are selected  
